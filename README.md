@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ShenLongKnight/ShenLongKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown                                                 
+### 👋 你好，我是神龙大侠
 
-Here are some ideas to get you started:
+- 🌟 00后狮子座 | ESFJ 💥
+- 🎧 音乐、篮球、技术控
+- 💻 嵌入式软件开发专注者，致力于打造有趣的灵魂
+- 🚀 热衷于前沿技术 & 人工智能
+- 💡 坚信技术改变世界 | 立志成为嵌入式高手
+- 🦁 极度的坦诚就是无坚不摧
+- 🔗 关注我一起进步，一起成为绝世高手！
+- 🚩 让机器学会思考| 在内存毫厘间优化山河| 专注底层，但眼望星辰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
